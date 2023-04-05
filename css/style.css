@@ -1,0 +1,18 @@
+.blue{
+    background-color: rgb(0,108,250);
+    height: 50px;
+}
+
+.riga{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* debug */
+
+[class*="col-"]{
+    border: 1px solid white;
+    color: white;
+}
