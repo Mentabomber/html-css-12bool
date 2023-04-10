@@ -1,12 +1,22 @@
 .blue,
 .green{
     height: 50px;
+    min-height: 100%;
 }
 
 .grande
 {
     height: 70px;
     padding: 8px
+}
+
+.grandissimo{
+    height: 100px;
+    padding: 10px;
+}
+
+.contenitore{
+    height: 100%;
 }
 
 
